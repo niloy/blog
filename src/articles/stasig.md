@@ -63,5 +63,7 @@ and oAuth logins, so its fair enough.
 
 If you are reading this, it means my blog is online again, created with
 HTML/CSS & Javascript *only*. The source code of Stasig has been hosted on
-[Github](https://github.com/niloy/stasig). Feel free to check it out and
-leave your comments.
+[Github](https://github.com/niloy/stasig). The raw files of my blog have also
+been on hosted [here](https://github.com/niloy/blog). Of course, hosting your blog
+files on Github gives you free version control, something that CMS like Wordpress
+would never be able to match ;). Feel free to check them out and leave your comments.
