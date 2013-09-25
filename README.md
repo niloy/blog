@@ -1,6 +1,4 @@
-blog
+My Blog
 ====
 
-This repo contains my Blog's raw files. These are processed by 
-[Stasig](https://github.com/niloy/stasig) and the out folder is uploaded to
-niloy.github.com repo. My blog can be viewed [here](http://niloy.github.com).
+I am using Github issues as my blog posts. You can check all posts [here](https://github.com/niloy/blog/issues).
